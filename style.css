@@ -1,0 +1,28 @@
+body {
+  background-color: #262626;
+}
+/* img {
+  margin: auto;
+  height: 500px;
+  width: 500px;
+} */
+#key {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+}
+.one {
+  background-color: red;
+}
+.two {
+  background-color: orange;
+}
+.three {
+  background-color: yellow;
+}
+.four {
+  background-color: green;
+}
+.five {
+  background-color: blue;
+}
